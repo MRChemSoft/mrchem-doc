@@ -1,2 +1,3 @@
-# mrchemdoc
-Documentation for MRChem
+# Documentation for MRChem
+
+http://mrchemdoc.readthedocs.io
